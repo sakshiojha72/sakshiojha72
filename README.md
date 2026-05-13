@@ -5,7 +5,7 @@
 
 **Backend Developer · CS Student · Perpetually caffeinated**
 
-I build things. Java backends, REST APIs, full-stack systems — the kind of projects that work in production, not just on my laptop. Currently interning and learning what it actually takes to write clean, scalable code. Every project here is a step, not a showcase.
+I build things. Java backends, REST APIs, full-stack systems the kind of projects that work in production, not just on my laptop. Currently exploring and learning what it actually takes to write clean, scalable code. Every project here is a step, not a showcase.
 
 ---
 
@@ -62,7 +62,7 @@ I build things. Java backends, REST APIs, full-stack systems — the kind of pro
 
 ## 🚧 Currently
 
-- Interning — writing real Java, in real systems, with real deadlines
+-  writing real Java, in real systems, with real deadlines
 - Going deeper into Spring Boot Security & Microservices
 - Learning TypeScript, because apparently JavaScript needed guardrails
 - Studying System Design — understanding *why* before *how*
@@ -72,7 +72,7 @@ I build things. Java backends, REST APIs, full-stack systems — the kind of pro
 ## 👾 A Bit About Me
 
 - CS student from India, currently in the thick of it
-- Backend-first mindset — I like knowing exactly what's happening under the hood
+- Backend-first mindset, I like knowing exactly what's happening under the hood
 - Caffeine is a food group. Non-negotiable.
 - I tend to take on a lot — and I figure it out as I go
 - Not here to look good on paper. Here to actually get good.
