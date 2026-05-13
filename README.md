@@ -1,23 +1,23 @@
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=sakshiojha72&color=blueviolet&style=flat)
 
-# Hey, I'm Sakshi 👋☕
+# Sakshi Ojha
 
-> *"Fueled by coffee, debugging at 2am, and the occasional 'it finally works!' moment."*
+**Backend Developer · CS Student · Perpetually caffeinated**
 
-I'm a computer science student from India who loves building real-world projects that actually solve problems. I work across the full stack — Java backends, React frontends, and everything in between. Currently deep-diving into Spring Boot and modern web dev.
+I build things. Java backends, REST APIs, full-stack systems — the kind of projects that work in production, not just on my laptop. Currently interning and learning what it actually takes to write clean, scalable code. Every project here is a step, not a showcase.
 
 ---
 
-## 🚀 Projects I've Built
+## 🔨 What I've Built
 
-| Project | What it does | Tech |
-|--------|-------------|------|
-| [🏥 Sanjeevani](https://github.com/sakshiojha72/sanjeevani2) | Healthcare website — e-clinic, doctors, emergency services & pharmacy | HTML, CSS, JS, PHP |
-| [💻 FinSecure Frontend](https://github.com/sakshiojha72/FrontEnd_Insurance) | HR & Insurance dashboard with role-based views for Admin, HR & Employees | React, Vite, Tailwind |
-| [🛡️ InsuranceFinSecureApp](https://github.com/sakshiojha72/InsuranceFinSecureApp) | Backend for managing insurance policies & top-up plans | Java, Spring Boot |
-| [💼 FinSecureMerged](https://github.com/sakshiojha72/FinSecureMerged) | Full backend combining HR, finance, insurance & timesheet management | Java, Spring Boot |
-| [🏏 CricketMatch](https://github.com/sakshiojha72/CricketMatch_Sakshi) | Cricket match & score tracking REST API | Java, Spring Boot |
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [InsuranceFinSecureApp](https://github.com/sakshiojha72/InsuranceFinSecureApp) | Backend for managing insurance policies & top-up plans | Java · Spring Boot |
+| [FinSecureMerged](https://github.com/sakshiojha72/FinSecureMerged) | Unified backend — HR, finance, insurance & timesheet modules | Java · Spring Boot |
+| [CricketMatch](https://github.com/sakshiojha72/CricketMatch_Sakshi) | REST API for cricket match & score tracking | Java · Spring Boot |
+| [FinSecure Frontend](https://github.com/sakshiojha72/FrontEnd_Insurance) | Role-based dashboard for Admin, HR & Employees | React · Vite · Tailwind |
+| [Sanjeevani](https://github.com/sakshiojha72/sanjeevani2) | Healthcare platform — where I started | HTML · CSS · JS · PHP |
 
 ---
 
@@ -60,27 +60,26 @@ I'm a computer science student from India who loves building real-world projects
 
 ---
 
-## 🌱 Currently Learning
+## 🚧 Currently
 
-- Spring Boot Security & Microservices architecture
-- TypeScript (because apparently JavaScript needed more rules 😅)
-- System Design fundamentals
-- Making cleaner, more readable code (a never-ending journey)
+- Interning — writing real Java, in real systems, with real deadlines
+- Going deeper into Spring Boot Security & Microservices
+- Learning TypeScript, because apparently JavaScript needed guardrails
+- Studying System Design — understanding *why* before *how*
+
+---
+
+## 👾 A Bit About Me
+
+- CS student from India, currently in the thick of it
+- Backend-first mindset — I like knowing exactly what's happening under the hood
+- Caffeine is a food group. Non-negotiable.
+- I tend to take on a lot — and I figure it out as I go
+- Not here to look good on paper. Here to actually get good.
 
 ---
 
-## ☕ A Little About Me
-
-- 🎓 CS student, India
-- 💡 I enjoy building projects that feel like real products — not just assignments
-- 🏥 Interested in **healthcare tech** and **fintech** — two areas where good software genuinely changes lives
-- ☕ Coffee drinker first, developer second (my IDE doesn't open before my first cup)
-- 🐛 My debugging process: Google → Stack Overflow → stare at screen → coffee → solution was a missing semicolon
-
----
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-sakshiojha72-181717?style=flat&logo=github)](https://github.com/sakshiojha72)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakshi_Ojha-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-88b09a22a/)
-
-*"First, solve the problem. Then, write the code."* — and maybe grab a coffee in between. ☕*
