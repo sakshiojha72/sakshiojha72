@@ -78,11 +78,9 @@ I'm a computer science student from India who loves building real-world projects
 - 🐛 My debugging process: Google → Stack Overflow → stare at screen → coffee → solution was a missing semicolon
 
 ---
-
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-sakshiojha72-181717?style=flat&logo=github)](https://github.com/sakshiojha72)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakshi_Ojha-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-88b09a22a/)
 
 *"First, solve the problem. Then, write the code."* — and maybe grab a coffee in between. ☕*
